@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/junit/MyJunitTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/junit/add.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/junit/testadd.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/reflect/ClassGetLearn.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/reflect/Classlearn1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/reflect/Classlearn2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/reflect/example.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
